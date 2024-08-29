@@ -1,24 +1,32 @@
-# Introduction
+# HTTP2 Server
 
-Template for Node.js "Hello World!" project.
+This is a template for a Node.js "Hello World!" project using HTTP2.
 
-# Get started
+## Introduction
 
-- Click the **Run** button to run the program.
-  ![Run](https://lf-cdn.marscode.com/obj/eden-sg/ljhwz_lkpkbvsj/ljhwZthlaukjlkulzlp/project_template/prod/5359120a115c22dbd3d33c94f85baf3eb690e31f/images/native_nodejs/run.png)
-- Go to **Networking** adn preview the page at **port:3000**
-  ![Run](https://lf-cdn.marscode.com/obj/eden-sg/ljhwz_lkpkbvsj/ljhwZthlaukjlkulzlp/project_template/prod/5359120a115c22dbd3d33c94f85baf3eb690e31f/images/native_nodejs/cloud_port.png)
-- Got to **Preview** and watch it.
-  ![Preview](https://lf-cdn.marscode.com/obj/eden-sg/ljhwz_lkpkbvsj/ljhwZthlaukjlkulzlp/project_template/prod/5359120a115c22dbd3d33c94f85baf3eb690e31f/images/native_nodejs/preview.png)
+This project serves as a starting point for creating a Node.js HTTP2 server. It provides a basic structure and code implementation to help you get started quickly.
 
-By default, MarsCode provide you with a default running configuration, you can modify it in the **.vscode/launch.json**. Refer to [Visual Studio Code's doc](https://code.visualstudio.com/docs/editor/debugging) for how to configure launch.json.
+## Get Started
 
-# Learn more
+To run the program, follow these steps:
 
-To learn more about Node.js, refer to the following resources:
+1. Click the **Run** button to start the server.
+   ![Run](https://lf-cdn.marscode.com/obj/eden-sg/ljhwz_lkpkbvsj/ljhwZthlaukjlkulzlp/project_template/prod/5359120a115c22dbd3d33c94f85baf3eb690e31f/images/native_nodejs/run.png)
 
-- [introduction-to-nodejs](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs) - learn about Node.js features.
+2. Go to **Networking** and preview the page at **port:3000**.
+   ![Run](https://lf-cdn.marscode.com/obj/eden-sg/ljhwz_lkpkbvsj/ljhwZthlaukjlkulzlp/project_template/prod/5359120a115c22dbd3d33c94f85baf3eb690e31f/images/native_nodejs/cloud_port.png)
 
-# Help
+3. Alternatively, you can go to **Preview** and watch it there.
+   ![Preview](https://lf-cdn.marscode.com/obj/eden-sg/ljhwz_lkpkbvsj/ljhwZthlaukjlkulzlp/project_template/prod/5359120a115c22dbd3d33c94f85baf3eb690e31f/images/native_nodejs/preview.png)
 
-If you need help, you might be able to find an answer in our [docs](https://docs.marscode.com/). Feel free to report bugs and give us feedback [here](https://discord.gg/qtVMXEDbRw).
+By default, MarsCode provides you with a default running configuration. If you need to modify it, you can do so in the `.vscode/launch.json` file. Refer to [Visual Studio Code's documentation](https://code.visualstudio.com/docs/editor/debugging) for more information on how to configure `launch.json`.
+
+## Learn More
+
+To learn more about Node.js, you can refer to the following resources:
+
+- [Introduction to Node.js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs): Learn about Node.js features and get started with the basics.
+
+## Help
+
+If you need further assistance, you can check out our [documentation](https://docs.marscode.com/) for more information. Feel free to report any bugs or provide feedback [here](https://discord.gg/qtVMXEDbRw).
